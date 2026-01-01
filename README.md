@@ -5,6 +5,13 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
+<img width="1903" height="1079" alt="Screenshot 2026-01-01 231049" src="https://github.com/user-attachments/assets/e27eaa9e-0a7a-41af-add2-4a9604c513ba" />
+<img width="1905" height="1079" alt="Screenshot 2026-01-01 231104" src="https://github.com/user-attachments/assets/5baa43c6-5758-4b61-9014-12f695ae5c5a" />
+<img width="1901" height="1079" alt="Screenshot 2026-01-01 231211" src="https://github.com/user-attachments/assets/67c1e405-a94a-43f1-aab0-5555901d84b1" />
+<img width="1912" height="1079" alt="Screenshot 2026-01-01 231230" src="https://github.com/user-attachments/assets/4ff7ef29-8483-43a9-a3f1-0ea36c3e5d2a" />
+<img width="1904" height="1079" alt="Screenshot 2026-01-01 231521" src="https://github.com/user-attachments/assets/aaa68864-f4df-407e-8253-3fc69b6a5841" />
+
+
 **ModelArena** is a production-grade, low-code interface for training, comparing, and selecting Machine Learning models. Built for Data Scientists who need rapid experimentation with robust, enterprise-level reliability.
 
 ---
